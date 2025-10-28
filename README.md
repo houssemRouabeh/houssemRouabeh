@@ -34,16 +34,14 @@
 ---
 
 ## 🧠 Projets récents  
-- 💼 [BitChest](https://github.com/houssemRouabeh/BitChest) — Plateforme de gestion et transaction sécurisée  
-- 📊 [Dashboard Admin](https://github.com/houssemRouabeh/DashboardAdmin) — Gestion dynamique des utilisateurs et formulaires  
-- 🌐 [Portfolio personnel](https://github.com/houssemRouabeh/Portfolio) — Présentation de mes travaux et compétences  
+- 💼 [BitChest](https://github.com/houssemRouabeh/Bitchest-project) — Plateforme de gestion et transaction sécurisée  
+- 📊 [Site Web]([https://github.com/houssemRouabeh/DashboardAdmin](https://github.com/houssemRouabeh/toucomex_webSite)) — Site web dynamique responsive et sécurisé  
 
 ---
 
 ## 🌐 Connecte-toi avec moi  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tonprofil)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:tonmail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox)](https://tonsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/houssem rouabeh)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:houssem.rouabeh@toucomex.com)
 
 ---
 
