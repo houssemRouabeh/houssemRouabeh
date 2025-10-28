@@ -25,18 +25,18 @@
 
 ## 📈 Mes Stats GitHub  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoussemR&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=houssemRouabeh&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoussemR&theme=radical" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=houssemRouabeh&theme=radical" alt="streak stats"/>
 </p>
 
 ---
 
 ## 🧠 Projets récents  
-- 💼 [BitChest](https://github.com/HoussemR/BitChest) — Plateforme de gestion et transaction sécurisée  
-- 📊 [Dashboard Admin](https://github.com/HoussemR/DashboardAdmin) — Gestion dynamique des utilisateurs et formulaires  
-- 🌐 [Portfolio personnel](https://github.com/HoussemR/Portfolio) — Présentation de mes travaux et compétences  
+- 💼 [BitChest](https://github.com/houssemRouabeh/BitChest) — Plateforme de gestion et transaction sécurisée  
+- 📊 [Dashboard Admin](https://github.com/houssemRouabeh/DashboardAdmin) — Gestion dynamique des utilisateurs et formulaires  
+- 🌐 [Portfolio personnel](https://github.com/houssemRouabeh/Portfolio) — Présentation de mes travaux et compétences  
 
 ---
 
