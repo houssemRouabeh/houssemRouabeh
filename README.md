@@ -109,7 +109,7 @@
 
 | Projet | Description |
 |--------|-------------|
-| 🏢 **[Toucomex]()** | Site web d'entreprise — dynamique, responsive et sécurisé · [🌐 Live](https://www.toucomex.com.tn) |
+| 🏢 **[Toucomex]** | Site web d'entreprise — dynamique, responsive et sécurisé · [🌐 Live](https://www.toucomex.com.tn) |
 | 💼 **[BitChest](https://github.com/houssemRouabeh/Bitchest-project)** | Plateforme de gestion et de transactions sécurisées |
 
 ---
