@@ -109,7 +109,7 @@
 
 | Projet | Description |
 |--------|-------------|
-| 🏢 **Toucomex** | Site web d'entreprise — dynamique, responsive et sécurisé · [🌐 Live](https://www.toucomex.com.tn) |
+| 🏢 **[Toucomex](https://github.com/houssemRouabeh/toucomex_webSite)** | Site web d'entreprise — dynamique, responsive et sécurisé · [🌐 Live](https://www.toucomex.com.tn) |
 | 💼 **[BitChest](https://github.com/houssemRouabeh/Bitchest-project)** | Plateforme de gestion et de transactions sécurisées |
 
 ---
@@ -123,10 +123,6 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssemRouabeh&layout=compact&hide_border=true&title_color=e67e22&text_color=ffffff&bg_color=0d2137" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=houssemRouabeh&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
 </p>
 
 <p align="center">
