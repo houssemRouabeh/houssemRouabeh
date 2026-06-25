@@ -1,4 +1,3 @@
-
 name: Generate Snake Animation
 
 on:
@@ -25,6 +24,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # PAT avec scope read:user pour inclure les contributions PRIVÉES.
+          # Si le secret GH_PAT n'existe pas, on retombe sur le token par défaut
+          # (qui ne voit que le public).
+          github_token: ${{ secrets.GH_PAT || github.token }}
           # Snake orange + cases en dégradé navy → orange (couleurs SmartOps)
           outputs: |
             dist/snake.svg?palette=github-dark&color_snake=e67e22&color_dots=#0d2137,#234e7a,#1a3a5f,#d35400,#e67e22
